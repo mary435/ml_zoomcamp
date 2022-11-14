@@ -1,1 +1,1 @@
-Zoomcamp 2022 projects.
+ML Zoomcamp 2022 projects.
